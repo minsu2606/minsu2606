@@ -1,10 +1,7 @@
-## 안녕하세요 👋
+## 박민수 👋
 
 <!--
 **minsu2606/minsu2606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 학력 : 소프트웨어 공학
 - 🌱 사용 언어 
     -프론트엔드 : HTML, CSS, JAVASCRIPT
