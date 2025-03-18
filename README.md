@@ -1,10 +1,9 @@
 ## 박민수 👋
 
 - 🔭 학력 : 소프트웨어 공학
-- 🌱 사용 언어 
-    -프론트엔드 : HTML, CSS, JAVASCRIPT
-    -백엔드 : JAVA, PYTHON, C#
-- 👯 장점 : 
+- 🌱 프론트엔드 : HTML, CSS, JAVASCRIPT
+- 👯 백엔드 : JAVA, PYTHON, C#
+- 😄 장점 : 
 - 🤔 단점 : 
 
 <!--
